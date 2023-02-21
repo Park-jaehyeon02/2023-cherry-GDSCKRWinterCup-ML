@@ -9,3 +9,7 @@ GDSC KR Winter Cup 본선 Cherry팀 ML파트
     - ![sklearn](https://img.shields.io/badge/sklearn-1.2.1-red)
     - ![matplotlib](https://img.shields.io/badge/matplotlib-3.7.0-yellowgreen)
     - ![numpy](https://img.shields.io/badge/numpy-1.24.2-lightgrey)
+
+# 성능
+
+![Accuracy](https://user-images.githubusercontent.com/26412102/220266248-6abd3b0f-8e9f-47ab-9d4b-c843e54c952b.png "Accuracy")**Accuracy**  &emsp; ![Loss](https://user-images.githubusercontent.com/26412102/220266637-a4ac02cd-acc8-4fdf-93ed-e9b2a1d61cab.png "Loss") **Loss**
